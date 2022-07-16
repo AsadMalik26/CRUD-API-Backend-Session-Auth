@@ -1,3 +1,4 @@
+// Hello to the future - Now we will handle Session and Authentication/Authorization od User
 const PORT = process.env.PORT || 8080;
 const express = require("express");
 const app = express();
